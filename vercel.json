@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "yummy",
+    "name": "real estate back",
     "builds": [
        { "src": "index.js", "use": "@vercel/node" }
     ],

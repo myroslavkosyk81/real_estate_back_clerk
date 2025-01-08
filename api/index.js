@@ -55,7 +55,7 @@ app.use(cookieParser());
 app.use(clerkMiddleware());
 
 app.listen(process.env.PORT || 3000, () => {
-    console.log('server is running!')
+    console.log('server is runningg!')
 });
 
 app.use('/api/user', userRouter);

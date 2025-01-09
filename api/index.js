@@ -11,7 +11,7 @@ dotenv.config();
 import cors from 'cors';
 import { clerkMiddleware } from '@clerk/express'
 
-const allowedOrigins = ['http://localhost:5173', 'https://real-estate-front-clerk.vercel.app/'];
+const allowedOrigins = ['http://localhost:5173', 'https://real-estate-front-clerk.vercel.app'];
 
 
 
